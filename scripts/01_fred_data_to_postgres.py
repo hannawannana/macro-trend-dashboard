@@ -17,10 +17,10 @@ import pandas as pd
 from sqlalchemy import create_engine
 
 # Configuration: Replace with your own credentials
-FRED_API_KEY = "b9a4903923b9fcb6db345239517e5afc"
+FRED_API_KEY = "b9a4903923b9fcb6db345239517e5"
 
 DB_USER = "postgres"
-DB_PASSWORD = "2002"
+DB_PASSWORD = "202"
 DB_HOST = "localhost"
 DB_PORT = "5432"
 DB_NAME = "macroindex"
