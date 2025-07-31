@@ -40,7 +40,7 @@ data/
 
 | Macro Trends | Volatility | Portfolio Allocation |
 |--------------|------------|----------------------|
-| ![](assets/dashboard_macro_trends.png) | ![](assets/dashboard_volatility.png) | ![](assets/dashboard_allocation.png) |
+| ![](assets/dashboard_macrotrends.png) | ![](assets/dashboard_volatility.png) | ![](assets/dashboard_allocation.png) |
 
 View Full Dashboard →(https://public.tableau.com/views/MacroeconomicTrendDashboardPostgreSQLTableau/MacroDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
